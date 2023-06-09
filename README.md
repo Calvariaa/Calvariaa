@@ -18,6 +18,7 @@
 
 ### Connect:
 - Discord: <https://discord.gg/Calvaria#3900>
+- QQ / Weixin / Telegram
 
 ### Languages:
 - C
