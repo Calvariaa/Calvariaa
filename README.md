@@ -34,6 +34,7 @@
 - Win Linux
 - Jetbrains Vsc Vim Sublime ~~Devcpp~~
 - Adobe Clip Coreldraw
+- Altium KiCad
 - C4D Blender
 - FlStudio
 
