@@ -16,6 +16,8 @@
 
 没有时间干任何想做的事情, 没有办法把注意力放在不关心的事情上, 想睡觉是常态. 
 
+23年智能车电磁国一，目前在备战24年镜头组
+
 ### Connect:
 - Discord: <https://discord.gg/Calvaria#3900>
 - QQ / Weixin / Telegram
