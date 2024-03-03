@@ -42,6 +42,4 @@ Ex NOIPer, 开始学习编程是打完比赛后.
 
 ------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=calvariaa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117&count_private=true)
-
-![Languages](https://raw.githubusercontent.com/Calvariaa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Calvariaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calvariaa&show_icons=true&theme=radical)
