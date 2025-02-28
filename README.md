@@ -8,19 +8,16 @@
 
 通用中文昵称 <= "纸鹞"
 
-中国在校大学生, 主修嵌入式全栈辅修艺术设计. 
+目前电子信息工程专业在修, 不过平时自学的基本属于自动化控制等, 大概是走偏了...然后还学过两年商业美术, 反正成分比较杂(((
 
 Ex NOIPer, 开始学习编程是打完比赛后. 
 
 钢琴七级, 管弦乐等多有涉猎, 遗憾是没有学架子鼓与吉他. 
 
-几乎没有时间干任何想做的事情, 也没有办法把注意力放在不关心的事情上, 想睡觉是常态. 
-
-23年智能车电磁国一，24年Infineon负压摄像头国一，备战25年________
+18届智能车国一, 19届智能车国一, 24年四川省TI杯省一, 目标是再炸一年鱼(雾). 你们给我等着哼哼^ ^.
 
 ### Connect:
-- Discord: <https://discord.gg/Calvaria#3900>
-- QQ / Weixin / Telegram
+- Discord: Calvariaa
 
 ### Languages:
 - C
@@ -31,13 +28,15 @@ Ex NOIPer, 开始学习编程是打完比赛后.
 - Kotlin
 - Python
 - Rust
+- Verilog
 
 ### Tools:
-- Win Linux
+- Win Linux Mac
 - Jetbrains Vsc Vim Sublime ~~Devcpp~~
 - Adobe Clip Coreldraw
-- Altium KiCad
+- Altium KiCad JLC
 - C4D Blender
+- SolidWorks
 - FlStudio
 
 ------
