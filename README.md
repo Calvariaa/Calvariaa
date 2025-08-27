@@ -4,6 +4,9 @@
 
 ### `^^`
 
+### Connect:
+- Zhiyao20021123@gmail.com
+- 
 ------
 
 电子信息工程专业, 辅修商业美术, 熟悉自动控制算法与设计.
@@ -18,8 +21,6 @@
  - Ex NOIPer
  - 钢琴七级
 
-### Connect:
-- Zhiyao20021123@gmail.com
 
 ### Languages:
 - C
